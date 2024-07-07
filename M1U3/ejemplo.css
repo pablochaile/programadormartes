@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(217, 255, 0);
+}
+
+img {
+    margin-left: 550px;
+    border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(217, 255, 0);
+}
+
+#contenedor {
+    background-color: rgb(192, 113, 99);
+    display: flex;
+    justify-content: space-around;
+}
+
+.caja {
+    background-color: rgb(221, 172, 172);
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+}
+
+.destacar {
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+}
