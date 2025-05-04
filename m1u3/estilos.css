@@ -1,0 +1,48 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+img {
+    margin-left: 350px;
+    border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+#contenedor {
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+}
+
+.caja {
+    background-color: rgb(221, 172, 172);
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+}
+
+.destacar {
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
